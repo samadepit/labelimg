@@ -1,0 +1,5 @@
+path: ''
+train: train_list.txt
+val: val_list.txt
+nc: 0
+names: []
